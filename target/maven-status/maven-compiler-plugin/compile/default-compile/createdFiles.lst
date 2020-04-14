@@ -1,0 +1,3 @@
+org/wso2/sample/saml2/grant/handler/ExtendedSAML2BearerGrantHandler.class
+org/wso2/sample/saml2/grant/handler/internal/ExtendedSAML2BearerGrantHandlerServiceComponent.class
+org/wso2/sample/saml2/grant/handler/internal/ExtendedSAML2BearerGrantHandlerDataHolder.class

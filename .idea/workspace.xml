@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70581375-b782-494d-8e02-a311d0a281d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aOtRQqwvo7WDFpITDBCLTozZhy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/org/wso2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Remote" nameIsGenerated="true">
+      <module name="identity-saml2-bearer-grant-extention" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70581375-b782-494d-8e02-a311d0a281d4" name="Default Changelist" comment="" />
+      <created>1586618459668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586618459668</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="298" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586810572915">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="298" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586810572915" />
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586817680696">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586817680696" />
+    <state x="990" y="181" key="#xdebugger.evaluate" timestamp="1586842665462">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="990" y="181" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1586842665462" />
+    <state width="1638" height="354" key="GridCell.Tab.0.bottom" timestamp="1586846254728">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586846254728" />
+    <state width="1638" height="354" key="GridCell.Tab.0.center" timestamp="1586846254727">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586846254727" />
+    <state width="1638" height="354" key="GridCell.Tab.0.left" timestamp="1586846254726">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586846254726" />
+    <state width="1638" height="354" key="GridCell.Tab.0.right" timestamp="1586846254727">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586846254727" />
+    <state width="1638" height="354" key="GridCell.Tab.1.bottom" timestamp="1586846254729">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586846254729" />
+    <state width="1638" height="354" key="GridCell.Tab.1.bottom/0.23.1680.961@0.23.1680.961" timestamp="1586843712883" />
+    <state width="1638" height="354" key="GridCell.Tab.1.center" timestamp="1586846254729">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586846254729" />
+    <state width="1638" height="354" key="GridCell.Tab.1.center/0.23.1680.961@0.23.1680.961" timestamp="1586843712882" />
+    <state width="1638" height="354" key="GridCell.Tab.1.left" timestamp="1586846254728">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586846254728" />
+    <state width="1638" height="354" key="GridCell.Tab.1.left/0.23.1680.961@0.23.1680.961" timestamp="1586843712881" />
+    <state width="1638" height="354" key="GridCell.Tab.1.right" timestamp="1586846254729">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586846254729" />
+    <state width="1638" height="354" key="GridCell.Tab.1.right/0.23.1680.961@0.23.1680.961" timestamp="1586843712883" />
+    <state x="635" y="310" key="chooseDestDirectoryDialog" timestamp="1586809156861">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="635" y="310" key="chooseDestDirectoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586809156861" />
+    <state x="234" y="222" key="new project wizard" timestamp="1586618916851">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="234" y="222" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1586618916851" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/wso2/sample/saml2/grant/handler/ExtendedSAML2BearerGrantHandler.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

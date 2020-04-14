@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0" immediate="true" name="identity.saml2.grant.handler.component" activate="activate">
+    <reference name="application.mgt.service" interface="org.wso2.carbon.identity.application.mgt.ApplicationManagementService" cardinality="1..1" policy="dynamic" bind="setApplicationMgtService" unbind="unsetApplicationMgtService"/>
+    <reference name="realm.service" interface="org.wso2.carbon.user.core.service.RealmService" cardinality="1..1" policy="dynamic" bind="setRealmService" unbind="unsetRealmService"/>
+    <implementation class="org.wso2.sample.saml2.grant.handler.internal.ExtendedSAML2BearerGrantHandlerServiceComponent"/>
+</scr:component>

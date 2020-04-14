@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1586845615799
+Build-Jdk: 1.8.0_201
+Built-By: hash
+Bundle-ManifestVersion: 2
+Bundle-Name: identity-saml2-bearer-grant-extention
+Bundle-SymbolicName: identity-saml2-bearer-grant-extention
+Bundle-Version: 1.0.1
+Created-By: Apache Maven Bundle Plugin
+DynamicImport-Package: *
+Export-Package: org.wso2.sample.saml2.grant.handler;version="1.0.1"
+Import-Package: org.osgi.service.component;version="[1.1,2)"
+Service-Component: OSGI-INF/org.wso2.sample.saml2.grant.handler.internal
+ .ExtendedSAML2BearerGrantHandlerServiceComponent.xml
+Tool: Bnd-2.1.0.20130426-122213
